@@ -21,7 +21,7 @@
 
 * **Python 运行**
   ```bash
-  python BERT-AI.py
+  python sentiment_classifier.py
   ```
 * **数据格式** `comments.csv`
   ```csv
